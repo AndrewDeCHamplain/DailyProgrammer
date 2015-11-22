@@ -26,4 +26,4 @@ Your string: "...You...!!!@!3124131212 Hello have this is a --- string Solved !!
 
 Find the words at these indexes and display them with a " " between them: 12 -1 1 -100 4 1000 9 -1000 16 13 17 15
 
-<img src="http://i.imgur.com/pj2tjkz.jpg>
+<img src="http://i.imgur.com/pj2tjkz.jpg">
