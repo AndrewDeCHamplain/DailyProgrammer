@@ -1,10 +1,6 @@
-/**
- * 
- */
-package challenge168_StringIndex_Easy;
 
 /**
- * @author Andrew
+ * @author Andrew DeChamplain
  *
  * Description:
  * 
