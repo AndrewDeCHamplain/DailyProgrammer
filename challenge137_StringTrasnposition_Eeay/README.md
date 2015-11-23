@@ -78,6 +78,6 @@ lctyt
  r
  ```
  
- ## Result:
+ ## Result
  
  <img src="http://i.imgur.com/KlttGFf.jpg">
