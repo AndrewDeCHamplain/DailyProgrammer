@@ -1,4 +1,4 @@
-# Challenge 168
+# Challenge 36 Easy
 
 https://www.reddit.com/r/dailyprogrammer/comments/ruiob/452012_challenge_36_easy/
 
